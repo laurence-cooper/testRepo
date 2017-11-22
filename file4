@@ -1,0 +1,1 @@
+ljc60 pulled to get file2 in his local repo. Then ljc60 git added file3 to his local repo. laurence-cooper is committing file4 to the original repo. If ljc60 now git pulls, he should get file1 to file 4 in his local repo. laurence-cooper will just have file1, file2 and file4 (not file3)
